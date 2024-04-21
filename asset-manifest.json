@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Appscrip-task-Rohith-Kumar-Kadali/static/css/main.edefe5e8.css",
+    "main.js": "/Appscrip-task-Rohith-Kumar-Kadali/static/js/main.9915ca04.js",
+    "static/js/453.e44b69bd.chunk.js": "/Appscrip-task-Rohith-Kumar-Kadali/static/js/453.e44b69bd.chunk.js",
+    "index.html": "/Appscrip-task-Rohith-Kumar-Kadali/index.html",
+    "main.edefe5e8.css.map": "/Appscrip-task-Rohith-Kumar-Kadali/static/css/main.edefe5e8.css.map",
+    "main.9915ca04.js.map": "/Appscrip-task-Rohith-Kumar-Kadali/static/js/main.9915ca04.js.map",
+    "453.e44b69bd.chunk.js.map": "/Appscrip-task-Rohith-Kumar-Kadali/static/js/453.e44b69bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edefe5e8.css",
+    "static/js/main.9915ca04.js"
+  ]
+}
